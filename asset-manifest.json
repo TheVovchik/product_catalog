@@ -1,7 +1,12 @@
 {
   "files": {
-    "main.css": "/product_catalog/static/css/main.a480c08d.css",
-    "main.js": "/product_catalog/static/js/main.459a3702.js",
+    "main.css": "/product_catalog/static/css/main.335dd0d0.css",
+    "main.js": "/product_catalog/static/js/main.fc81d92c.js",
+    "static/media/00.png": "/product_catalog/static/media/00.779473600e9aff690982.png",
+    "static/media/01.png": "/product_catalog/static/media/01.1ebdf5c2ace91b4792b0.png",
+    "static/media/03.png": "/product_catalog/static/media/03.ad2c3a656b92100b9653.png",
+    "static/media/02.png": "/product_catalog/static/media/02.de35e409b0fd9112a440.png",
+    "static/media/04.png": "/product_catalog/static/media/04.f8f63b0630a1a4a099d8.png",
     "static/media/Mont-ThinItalic.eot": "/product_catalog/static/media/Mont-ThinItalic.5510e8d36aaaf841911a.eot",
     "static/media/Mont-ExtraLightItalic.eot": "/product_catalog/static/media/Mont-ExtraLightItalic.0329ea9a75589c1375c9.eot",
     "static/media/Mont-ThinItalic.ttf": "/product_catalog/static/media/Mont-ThinItalic.8e57fa31ffd3866e42ae.ttf",
@@ -67,14 +72,17 @@
     "static/media/Mont-Thin.woff2": "/product_catalog/static/media/Mont-Thin.fd50e23452a4f62e1e58.woff2",
     "static/media/Mont-Black.woff2": "/product_catalog/static/media/Mont-Black.2e299ff4d72dac880c22.woff2",
     "static/media/cart.svg": "/product_catalog/static/media/cart.5cf4607710e9e2939ef47bfd8e3acfe6.svg",
+    "static/media/favorites.svg": "/product_catalog/static/media/favorites.68e007358b0836eb5041.svg",
     "static/media/like.svg": "/product_catalog/static/media/like.c54eb249262237e9e0eceaa78a7b9dbf.svg",
+    "static/media/right-pagination-arrow.svg": "/product_catalog/static/media/right-pagination-arrow.350f08013d837486a3de.svg",
+    "static/media/left-pagination-arrow.svg": "/product_catalog/static/media/left-pagination-arrow.557aa1d8531b86b6157e.svg",
     "static/media/path_stroke.svg": "/product_catalog/static/media/path_stroke.985360c2305523348313305df4f87e3d.svg",
     "index.html": "/product_catalog/index.html",
-    "main.a480c08d.css.map": "/product_catalog/static/css/main.a480c08d.css.map",
-    "main.459a3702.js.map": "/product_catalog/static/js/main.459a3702.js.map"
+    "main.335dd0d0.css.map": "/product_catalog/static/css/main.335dd0d0.css.map",
+    "main.fc81d92c.js.map": "/product_catalog/static/js/main.fc81d92c.js.map"
   },
   "entrypoints": [
-    "static/css/main.a480c08d.css",
-    "static/js/main.459a3702.js"
+    "static/css/main.335dd0d0.css",
+    "static/js/main.fc81d92c.js"
   ]
 }
